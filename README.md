@@ -38,5 +38,5 @@ chmod +x ~
 python Snus.py
 # ВНИМАНИЕ
 Я не несу ответственность за спам!(
-#`Скриншоты!`
+#Скриншоты!
 ![New SNUS! ](https://user-images.githubusercontent.com/79328472/110144312-41d0ff80-7de9-11eb-9421-35ef45f8a7d4.jpg)
