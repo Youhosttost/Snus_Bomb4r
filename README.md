@@ -1,3 +1,4 @@
+<p align="center">
 ![HACKER](https://img.shields.io/badge/MADE-RUSSIA-ORANGE.svg)
 
 [![Build Status](https://img.shields.io/github/forks/Youhosttost/Snus_Bomb4r.svg)](https://github.com/Youhosttost/Snus_Bomb4r)
