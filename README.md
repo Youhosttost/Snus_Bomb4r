@@ -1,9 +1,10 @@
-                                      https://img.shields.io/badge/MADE-RUSSIA-orange 
+![HACKER] (https://img.shields.io/badge/MADE-RUSSIA-ORANGE.svg)
+
 [![Build Status](https://img.shields.io/github/forks/Youhosttost/Snus_Bomb4r.svg)](https://github.com/Youhosttost/Snus_Bomb4r)
 
 [![Build Status](https://img.shields.io/github/stars/Youhosttost/Snus_Bomb4r.svg)](https://github.com/Youhosttost/Snus_Bomb4r)
 
-![PicsArt_03-04-04 25 35](https://user-images.githubusercontent.com/79328472/109970745-79b34680-7d06-11eb-8608-cb9fdd7a84cf.jpg)
+![License](https://user-images.githubusercontent.com/79328472/109970745-79b34680-7d06-11eb-8608-cb9fdd7a84cf.jpg)
 # Информация
 SNUS-Bomb4r это довольно мощный бомбер,в нём около 200 сервисов! 
 # Установка на TERMUX
