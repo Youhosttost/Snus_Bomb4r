@@ -1,4 +1,3 @@
-<p align="center">
 
 ![HACKER](https://img.shields.io/badge/MADE-RUSSIA-ORANGE.svg)
 
