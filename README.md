@@ -1,6 +1,10 @@
 
 ![HACKER](https://img.shields.io/badge/MADE-RUSSIA-ORANGE.svg)
 
+![VIRUS](https://img.shields.io/badge/VERSION-1.5-ORANGE.svg)
+
+![TROJAN](https://img.shields.io/badge/License%20-MIT-BLUE.svg)
+
 [![Build Status](https://img.shields.io/github/forks/Youhosttost/Snus_Bomb4r.svg)](https://github.com/Youhosttost/Snus_Bomb4r)
 
 [![Build Status](https://img.shields.io/github/stars/Youhosttost/Snus_Bomb4r.svg)](https://github.com/Youhosttost/Snus_Bomb4r)
