@@ -1,3 +1,4 @@
+                                      https://img.shields.io/badge/MADE-RUSSIA-orange 
 [![Build Status](https://img.shields.io/github/forks/Youhosttost/Snus_Bomb4r.svg)](https://github.com/Youhosttost/Snus_Bomb4r)
 
 [![Build Status](https://img.shields.io/github/stars/Youhosttost/Snus_Bomb4r.svg)](https://github.com/Youhosttost/Snus_Bomb4r)
